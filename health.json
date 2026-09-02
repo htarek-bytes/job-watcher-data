@@ -1,22 +1,25 @@
 {
  "boards_known": 421,
  "closures": {
-  "samples": 0
+  "median_hours_open": 7.7,
+  "p10_hours": 7.7,
+  "p90_hours": 7.7,
+  "samples": 8,
+  "under_48h": 8
  },
- "last_sweep": 1788322853,
- "note": "seeded from a manual sweep; Actions overwrites this on its first run",
+ "last_sweep": 1788350709,
  "sources": {
   "simplify:SimplifyJobs/New-Grad-Positions": {
    "consecutive_error": 0,
    "consecutive_zero": 0,
-   "etag": "W/\"2e392f20756981c51e01afa02670bcea976907dc3cf63dd027fea075b4a8e99a\"",
+   "etag": "W/\"60fc5dab7686a863588992f8e735243a2b35128ab85aea8e452cd51bd11bb2c7\"",
    "key": "SimplifyJobs/New-Grad-Positions",
-   "last_attempt": 1788322769,
-   "last_count": 3337,
+   "last_attempt": 1788350664,
+   "last_count": 3330,
    "last_error": null,
-   "last_latency_ms": 566,
+   "last_latency_ms": 861,
    "last_status": 200,
-   "last_success": 1788322769,
+   "last_success": 1788350664,
    "source": "simplify"
   }
  }
