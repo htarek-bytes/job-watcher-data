@@ -1,4 +1,19 @@
 {
- "last_sweep": 0,
- "sources": {}
+ "last_sweep": 1788321035,
+ "note": "seeded from a manual sweep; Actions overwrites this on its first run",
+ "sources": {
+  "simplify:SimplifyJobs/New-Grad-Positions": {
+   "consecutive_error": 0,
+   "consecutive_zero": 0,
+   "etag": "W/\"7a500c1d7c89d15dbdd20c3a95e54242879b34e5c290bfc6e92a85a9c666f607\"",
+   "key": "SimplifyJobs/New-Grad-Positions",
+   "last_attempt": 1788321010,
+   "last_count": 3338,
+   "last_error": null,
+   "last_latency_ms": 420,
+   "last_status": 200,
+   "last_success": 1788321010,
+   "source": "simplify"
+  }
+ }
 }
