@@ -7,19 +7,19 @@
   "samples": 8,
   "under_48h": 8
  },
- "last_sweep": 1788350709,
+ "last_sweep": 1788352822,
  "sources": {
   "simplify:SimplifyJobs/New-Grad-Positions": {
    "consecutive_error": 0,
    "consecutive_zero": 0,
-   "etag": "W/\"60fc5dab7686a863588992f8e735243a2b35128ab85aea8e452cd51bd11bb2c7\"",
+   "etag": "W/\"a4dda27fec9d1f0a2751f9756a4cadbf4e1f40116697d94678b49ab13f5dd322\"",
    "key": "SimplifyJobs/New-Grad-Positions",
-   "last_attempt": 1788350664,
-   "last_count": 3330,
+   "last_attempt": 1788352758,
+   "last_count": 3331,
    "last_error": null,
-   "last_latency_ms": 861,
-   "last_status": 200,
-   "last_success": 1788350664,
+   "last_latency_ms": 474,
+   "last_status": 304,
+   "last_success": 1788352758,
    "source": "simplify"
   }
  }
